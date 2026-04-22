@@ -10,7 +10,7 @@ const quoteTemplate = document.querySelector("[data-quote-template]");
 const addItemButton = document.querySelector("[data-add-item]");
 const quoteOutput = document.querySelector("[data-quote-output]");
 const sendButton = document.querySelector("[data-send-message]");
-const whatsappNumber = body.dataset.clientWhatsapp || "40700000000";
+const whatsappNumber = body.dataset.clientWhatsapp || "40761730601";
 const filterLabels = {
   ferestre: "ferestre",
   usi: "usi",
