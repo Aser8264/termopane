@@ -14,7 +14,6 @@ const whatsappNumber = body.dataset.clientWhatsapp || "40700000000";
 const filterLabels = {
   ferestre: "ferestre",
   usi: "usi",
-  culori: "culori si profile",
 };
 
 function closeMenu() {
